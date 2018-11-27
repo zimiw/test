@@ -1,0 +1,50 @@
+{
+	"num": 1,
+	"name":"璎珞",
+	"nick_name":"璎珞",
+	"age":20,
+	"height":165,
+	"weight":60,
+	"size":"36c",
+	"intruduce":"皮肤白皙",
+	"thumpUrl":[],
+	"imgUrls":[],
+	"services":["GM","YYY","KJ","MY","SW","ZF","SW","69","AA"],
+	"charge":["600/P/60M","1000/PP/90M","2000/BY"],
+	"range":4,
+	"comments":[{
+		"name":"xiaogg",
+		"say":"very good",
+		"time":"2018.10.12 21:20:50"
+	}],
+	"phones":[],
+	"address":"上海市静安区安远路84号",
+	"qq":[],
+	"wechat":[],
+	"state": "stop"
+}
+
+{
+	"num": "序号",
+	"name":"名字",
+	"nick_name":"昵称",
+	"age":"年龄",
+	"height":"身高",
+	"weight":"体重",
+	"size":"尺寸",
+	"intruduce":"介绍",
+	"thumpUrl":"头像地址",
+	"imgUrls":"照片地址",
+	"services":"服务内容",
+	"charge":"收费",
+	"range":"评分",
+	"comments":"评价",
+	"phones":"联系方式",
+	"address":"地址",
+	"qq":"qq",
+	"wechat":"微信",
+	"state": "状态"
+
+}	
+
+
